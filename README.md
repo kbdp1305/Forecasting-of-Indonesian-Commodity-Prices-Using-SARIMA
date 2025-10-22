@@ -1,8 +1,8 @@
 # ⚠️ Important Note
-The main Jupyter Notebook (`main_sarima.ipynb`) **exceeds GitHub’s 25 MB upload limit** and cannot be uploaded here.  
+The main Jupyter Notebook (`Arkavidia9_Datavidia_ Sedang Sibuk Magang Penasaran Ajah smile.ipynb`) **exceeds GitHub’s 25 MB upload limit** and cannot be uploaded here.  
 You can access the full notebook and model files via Google Drive:
 
-📎 **[View the full notebook and data here](https://drive.google.com/drive/folders/1fmPbjC_zkkp5HK4BP13zebtpUG3HrIMK?usp=drive_link)**
+📎 **[View the full notebook here](https://drive.google.com/drive/folders/1fmPbjC_zkkp5HK4BP13zebtpUG3HrIMK?usp=drive_link)**
 
 ---
 
